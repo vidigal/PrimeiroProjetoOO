@@ -38,4 +38,5 @@ public class Aluno extends Pessoa {
     public void setEnderecos(Collection<Endereco> enderecos) {
         this.enderecos = enderecos;
     }
+
 }
