@@ -10,6 +10,7 @@ public class Principal {
         // Instanciar objeto aluno utilizando construtor sobrescrito
         Aluno aluno01 = new Aluno("Karina", "123456");
 
+
         // Instanciar objeto endereço
         Endereco endereco01 = new Endereco();
         endereco01.setCep("21940-140");
